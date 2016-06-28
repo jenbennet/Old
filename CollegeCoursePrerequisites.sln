@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollegeCoursePrerequisites", "CollegeCoursePrerequisites\CollegeCoursePrerequisites.csproj", "{750BCEF6-D0CF-4306-BF1D-EF69C3834760}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollegeCoursePrerequisitesUnitTests", "CollegeCoursePrerequisitesUnitTests\CollegeCoursePrerequisitesUnitTests.csproj", "{C5E25EB5-0EAD-49D9-A2D2-A24430199379}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{750BCEF6-D0CF-4306-BF1D-EF69C3834760}.Debug|x86.Build.0 = Debug|x86
 		{750BCEF6-D0CF-4306-BF1D-EF69C3834760}.Release|x86.ActiveCfg = Release|x86
 		{750BCEF6-D0CF-4306-BF1D-EF69C3834760}.Release|x86.Build.0 = Release|x86
+		{C5E25EB5-0EAD-49D9-A2D2-A24430199379}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C5E25EB5-0EAD-49D9-A2D2-A24430199379}.Debug|x86.Build.0 = Debug|Any CPU
+		{C5E25EB5-0EAD-49D9-A2D2-A24430199379}.Release|x86.ActiveCfg = Release|Any CPU
+		{C5E25EB5-0EAD-49D9-A2D2-A24430199379}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
